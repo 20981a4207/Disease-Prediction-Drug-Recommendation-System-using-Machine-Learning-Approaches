@@ -40,12 +40,6 @@ Drug recommendation engine
 🚀 Setup Instructions
 Prerequisites
 Python 3.8+
-Git
-Installation
-git clone https://github.com/darkxdd/Disease-Prediction-and-Drug-Recommendation-Prototype.git
-cd Disease-Prediction-and-Drug-Recommendation-Prototype
-pip install -r requirements.txt
-streamlit run app.py
 📈 Results & Performance
 Model Accuracy
 Implemented multiple ML approaches:
